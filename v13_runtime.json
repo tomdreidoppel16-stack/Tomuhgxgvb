@@ -1,0 +1,169 @@
+{
+  "normal": {
+    "file": "/mnt/data/TomGPT_CarLab_v13/examples/VortexGT/v13_tuned.glb",
+    "source_parts": 431,
+    "verified_parts": 431,
+    "modified_parts": [],
+    "damage_zone": null,
+    "damage": 0.0,
+    "tuning": "sport",
+    "native_gta_format": false,
+    "real_crash_physics": false,
+    "game_tested": false
+  },
+  "crashed": {
+    "file": "/mnt/data/TomGPT_CarLab_v13/examples/VortexGT/v13_crash_front.glb",
+    "source_parts": 430,
+    "verified_parts": 430,
+    "modified_parts": [
+      "front_headlight_-1",
+      "front_headlight_1",
+      "hood_sculpt_center",
+      "hood_sculpt_edge_left",
+      "front_intake_left",
+      "front_intake_slats_left_0",
+      "front_intake_slats_left_1",
+      "front_intake_slats_left_2",
+      "hood_sculpt_edge_right",
+      "front_intake_right",
+      "front_intake_slats_right_0",
+      "front_intake_slats_right_1",
+      "front_intake_slats_right_2",
+      "front_grille_microbar_0",
+      "front_grille_microbar_1",
+      "front_grille_microbar_2",
+      "front_grille_microbar_3",
+      "front_grille_microbar_4",
+      "front_grille_microbar_5",
+      "front_grille_microbar_6",
+      "front_grille_microbar_7",
+      "front_grille_microbar_8",
+      "front_grille_microbar_9",
+      "front_grille_microbar_10",
+      "front_grille_microbar_11",
+      "front_grille_microbar_12",
+      "front_grille_microbar_13",
+      "front_grille_microbar_14",
+      "front_grille_microbar_15",
+      "front_grille_microbar_16",
+      "front_grille_microbar_17",
+      "front_active_airdam",
+      "front_splitter",
+      "windshield (removed)"
+    ],
+    "damage_zone": "front",
+    "damage": 0.75,
+    "tuning": "sport",
+    "native_gta_format": false,
+    "real_crash_physics": false,
+    "game_tested": false
+  },
+  "drive_speed_before_impact_kmh": 89.93,
+  "drive_speed_after_impact_kmh": 36.54,
+  "cockpit_controls": {
+    "engine": [
+      "off",
+      "on"
+    ],
+    "headlights": [
+      "off",
+      "low",
+      "high"
+    ],
+    "indicators": [
+      "off",
+      "left",
+      "right",
+      "hazard"
+    ],
+    "wipers": [
+      "off",
+      "intermittent",
+      "fast"
+    ],
+    "interior_lights": [
+      "off",
+      "on"
+    ],
+    "radio": [
+      "off",
+      "on"
+    ],
+    "window_driver": [
+      "closed",
+      "open"
+    ],
+    "window_passenger": [
+      "closed",
+      "open"
+    ],
+    "door_driver": [
+      "closed",
+      "open"
+    ],
+    "door_passenger": [
+      "closed",
+      "open"
+    ],
+    "trunk": [
+      "closed",
+      "open"
+    ],
+    "hood": [
+      "closed",
+      "open"
+    ]
+  },
+  "tuning_data": {
+    "mass_kg": 1725,
+    "power_kw": 360,
+    "top_speed_kmh": 285,
+    "grip_mu": 1.12,
+    "drag_cd": 0.32,
+    "brake_force_n": 15100,
+    "downforce_n_at_100kmh": 360,
+    "spoiler": true,
+    "front_lip": true
+  },
+  "state_after_impact": {
+    "version": 13,
+    "tuning": "sport",
+    "speed_mps": 10.1513059,
+    "heading_radians": 0.0,
+    "position_x_m": 51.447652,
+    "position_z_m": 0.0,
+    "odometer_m": 51.447652,
+    "engine_rpm": 4702.0,
+    "gear": "D",
+    "fuel_liters": 55.9972,
+    "damage": {
+      "front": 0.5936,
+      "rear": 0.0,
+      "left": 0.0,
+      "right": 0.0
+    },
+    "windshield_broken": true,
+    "dashboard_faults": [],
+    "controls": {
+      "engine": "on",
+      "headlights": "off",
+      "indicators": "off",
+      "wipers": "off",
+      "interior_lights": "off",
+      "radio": "off",
+      "window_driver": "closed",
+      "window_passenger": "closed",
+      "door_driver": "closed",
+      "door_passenger": "closed",
+      "trunk": "closed",
+      "hood": "closed"
+    },
+    "note": "Non-validated arcade simulation, not a real-world or GTA handling model"
+  },
+  "limitations": [
+    "Standalone GLB source asset",
+    "Not GTA V native files",
+    "Not Rockstar-quality AAA",
+    "Approximate game-style physics, not physically validated"
+  ]
+}

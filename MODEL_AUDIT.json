@@ -1,0 +1,48 @@
+[
+  {
+    "file": "v13_tuned.glb",
+    "geometry_count": 431,
+    "mesh_count": 431,
+    "triangles": 9020,
+    "bounds": [
+      [
+        -2.6050000190734863,
+        0.05999999865889549,
+        -1.1725000143051147
+      ],
+      [
+        2.615000009536743,
+        1.8645000457763672,
+        1.1725000143051147
+      ]
+    ],
+    "gta5_native_ready": false,
+    "warnings": [
+      "GLB is not a GTA V .yft/.ytd export",
+      "Inspect scale, axes, topology, UVs, materials and pivots in Blender/Sollumz"
+    ]
+  },
+  {
+    "file": "v13_crash_front.glb",
+    "geometry_count": 430,
+    "mesh_count": 430,
+    "triangles": 9008,
+    "bounds": [
+      [
+        -2.6050000190734863,
+        0.05999999865889549,
+        -1.1725000143051147
+      ],
+      [
+        2.615000009536743,
+        1.8645000457763672,
+        1.1725000143051147
+      ]
+    ],
+    "gta5_native_ready": false,
+    "warnings": [
+      "GLB is not a GTA V .yft/.ytd export",
+      "Inspect scale, axes, topology, UVs, materials and pivots in Blender/Sollumz"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+TOMGPT SUPERCORE V14 — ALLE DATEIEN OHNE UNTERORDNER
+
+Dieses Paket hat KEINE Unterordner. Jede Datei liegt direkt im ZIP.
+
+Für dein GitHub-Repository tomdreidoppel16-stack/Tom76:
+1. ZIP auf dem Handy entpacken (GitHub lädt ZIPs nicht automatisch als Quellcode hoch).
+2. Im Repository auf "Add file" > "Upload files" gehen.
+3. Die entpackten Dateien direkt im Hauptverzeichnis hochladen.
+4. Bei vorhandenen Dateien core_bundle.py und Dockerfile die neue Version übernehmen.
+5. Änderungen committen. Danach ggf. in Render neu deployen.
+
+Wichtig:
+- core_bundle.py und Dockerfile ersetzen die alten v8-Dateien.
+- Die anderen sechs alten Dateien bleiben unverändert.
+- Die zusätzlichen v14-Dateien (Blender/GLB) liegen hier bewusst direkt im
+  GitHub-Hauptverzeichnis und sind NICHT automatisch im MCP-Server installiert.
+- v14 ist ein Blender-Vorbereitungspaket, KEIN fertiger GTA-V-Export.
+- GTA-V-Export benötigt Blender/Sollumz auf einem PC; Render Free ist dafür
+  nicht geeignet.
+- Die alte README.md stammt noch aus v8; für v14 siehe README_START_HIER.md.
